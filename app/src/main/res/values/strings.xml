@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoTwitterLogin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="messages">Messages</string>
+
+    <string name="msg_start_new_intent">Start onNewIntent()</string>
+    <string name="msg_called_oauth_access_token">Start gotOAuthAccessToken()</string>
+    <string name="msg_end_on_create">End onCreate()</string>
+    <string name="msg_start_oauth_request_token_request">Start OAuth RequestToken Request</string>
+
+</resources>
