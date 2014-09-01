@@ -1,7 +1,9 @@
-AndroidDemoTwitter4jLogin
+AndroidTwitter4jLoginDemo
 =========================
 
 Demo code for Twitter4j Login in Android. 
+
+You can learn how to implement your activity with state variables.
 
 * master branch : will work well
 * original branch : just a copy of original code
